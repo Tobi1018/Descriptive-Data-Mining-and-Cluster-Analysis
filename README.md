@@ -13,6 +13,5 @@
 # k-means cluster analysis
 We will be using the k-means clustering algorithm to identify and analyze patterns and trends in a dataset. K-means clustering is a popular and effective method for grouping data into clusters based on similarity. Using the R programming language to implement the k-means algorithm and analyze the data. R is a popular and powerful language for data analysis and visualization. By applying the k-means algorithm to our dataset, we hope to uncover valuable information and improve our understanding of the data.
 
-
-        First part of the project is to conduct a k-means cluster analysis: 
-         Part 2: Hierarchical Cluster Analysis
+#  Hierarchical Cluster Analysis
+      
